@@ -1712,7 +1712,7 @@
 
 /* Wrappers */
 
-	#header-wrapper {
+	#header-wrapper { 
 		background: url("images/bg01.png"), url("../../images/clouds.jpeg");
 		background-position: top left, center center;
 		background-size: auto, cover;
